@@ -1,12 +1,12 @@
-# react-udemy-1
+# Conceptos básicos de React
 
-### Creación del proyecto
+## Creación del proyecto
 - Para crear el "cascarón" del proyecto utilizaremos la siguiente línea de código en la carpeta raíz donde la querramos.
 ``` 
 npx create-react-app nombre-del-proyecto
 ```
 
-### Limpieza del cascarón
+## Limpieza del cascarón
 - Borraremos los siguientes elementos dentro de la carpeta src
   1. App.test
   2. logo.svg
@@ -17,9 +17,9 @@ npx create-react-app nombre-del-proyecto
 
 
 -------------------------
-## <b> BonusTrack </b>
+# BonusTrack 
 
-### Emmet ([LINK](https://emmet.io/))
+## Emmet ([LINK](https://emmet.io/))
 - Emmet es una extension para VsCode que nos brinda atajos para crear más rápido las tablas o bases de html
 
 ```javascript
@@ -40,3 +40,15 @@ tr>td*3 (nos va a crear)
         "javascript": "javascriptreact"
     }
 ```
+
+## Extensiones para VSCode
+- Instalar las siguientes extensiones para poder facilitar el uso de react en el IDE:
+  - Reactjs code snippets
+  - Prettier - Code formatter
+  - Bracket Pair Colorizer
+  - ES7 React/Redux/GraphQL/React-Native snippets
+  - Simple React Snippets
+  - Auto Close Tag
+
+## React y Redux Dev Tools ([REACT](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)) ([REDUX](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=en)) 
+- Instalar extensiones para google chrome
